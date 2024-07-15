@@ -37,8 +37,8 @@ Welcome to the Bubble Game! This fun and interactive game is built using HTML, C
 
 ## Game Interface
 
-![Game Interface](![WhatsApp Image 2024-07-15 at 4 06 31 PM](https://github.com/user-attachments/assets/0e24c8ad-90a0-4ec8-9778-1c6ae48db903)
-)
+![WhatsApp Image 2024-07-15 at 4 06 31 PM](https://github.com/user-attachments/assets/0e24c8ad-90a0-4ec8-9778-1c6ae48db903)
+![WhatsApp Image 2024-07-15 at 4 08 26 PM](https://github.com/user-attachments/assets/a597da8e-0e4d-415a-aea8-d5dd9013bfe3)
 
 ## Technologies Used
 
